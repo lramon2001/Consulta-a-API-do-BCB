@@ -14,9 +14,11 @@ Docker e Docker Compose instalados
 Clone o repositório ou baixe os arquivos para o seu sistema.
 Navegue até o diretório onde os arquivos estão localizados.
 Execute os seguintes comandos para construir e rodar o container Docker:
+```bash
 docker-compose up --build
-
+```
 Agora, o servidor Flask deve estar rodando em http://localhost:5000. Você pode fazer consultas à API usando:
 
-
+```
 http://localhost:5000/consultar_bcb?data_inicial=01/01/2021&data_final=01/01/2022
+```
