@@ -1,4 +1,4 @@
-# Projeto de Consulta à API do BCB para PGE-RO
+# Projeto de Consulta à API do BCB
 ## Descrição do Projeto
 Este projeto é capaz consultar dados de séries temporais financeiras da API do Banco Central do Brasil (BCB).
 
