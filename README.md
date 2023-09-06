@@ -5,11 +5,16 @@ Este projeto é capaz consultar dados de séries temporais financeiras da API do
 ## Tecnologias Utilizadas
 Python 3
 Flask
-Requests
 Docker
 ## Como Rodar o Projeto
 ### Requisitos
 Docker e Docker Compose instalados
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div> 
+
 ### Instruções
 Clone o repositório ou baixe os arquivos para o seu sistema.
 Navegue até o diretório onde os arquivos estão localizados.
